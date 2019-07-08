@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project 1
-description: Massive, HST-dark galaxies unveiled by ALMA
+description: a project with a background image
 img: /assets/img/12.jpg
 ---
 
