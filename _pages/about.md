@@ -2,22 +2,22 @@
 layout: about
 permalink: /
 title: <strong>Tao</strong> Wang
-description: <a href="">Institute of Astronomy, University of Tokyo</a>. Address. Contacts. Moto. Etc.
+description: <a href="">Institute of Astronomy, University of Tokyo</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 2016</p>
+    <p>IoA, U. Tokyo</p>
+    <p>2-21-1 Osawa, Mitaka</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This is Tao Wang (王涛). I am currently a post-doc researcher in astrophysics at Institute of Astronomy, University of Tokyo. I got my Ph. D in Astrophysics from Nanjing University, China in 2012, after spending two years at Harvard-Smithonian Center for Astrophysics as a pre-doctoral student. Before joining University of Tokyo, I was a post-doc at Commissariat à l'énergie atomique (CEA), Saclay, France.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research interests include galaxy formation, active galactic nuclei, galaxy clusters and cosmology, with a special emphasis on the early universe.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
