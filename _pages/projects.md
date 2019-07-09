@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: some research progects I worked on
 ---
 
 {% for project in site.projects %}

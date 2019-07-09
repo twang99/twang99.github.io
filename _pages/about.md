@@ -7,7 +7,7 @@ description: <a href="">Institute of Astronomy, University of Tokyo</a>. #Addres
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+#  address: >
     <p>Room 2016</p>
     <p>IoA, U. Tokyo</p>
     <p>2-21-1 Osawa, Mitaka</p>
