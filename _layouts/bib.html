@@ -64,8 +64,11 @@
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
-  {% if entry.arxiv %}
-    [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
+  {% if entry.adsurl %}
+    [<a href="{{ entry.adsurl }}" target="_blank">ads</a>]
+  {% endif %}
+  {% if entry.eprint %}
+    [<a href="http://arxiv.org/abs/{{ entry.eprint }}" target="_blank">arXiv</a>]
   {% endif %}
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
