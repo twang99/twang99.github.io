@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
+title: Black Holes
+description: SMBH-host co-evolution and regulation
 img:
 redirect: https://unsplash.com
 ---

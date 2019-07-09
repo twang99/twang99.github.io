@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
+title: Galaxies
+description: massive galaxy formation and quenching
 img: /assets/img/2.jpg
 ---
 

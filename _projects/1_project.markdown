@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1
+title: Clusters
 description: Discovery of the most distant known X-ray cluster
 img: /assets/img/cluster/cluster_press.png
 ---

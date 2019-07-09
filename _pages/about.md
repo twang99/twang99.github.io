@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Tao</strong> Wang
-description: <a href="">Institute of Astronomy, University of Tokyo</a>. #Address. Contacts. Moto. Etc.
+description: <a href="http://www.ioa.s.u-tokyo.ac.jp">Institute of Astronomy, University of Tokyo</a>, 2-21-1 Osawa, Mitaka, Tokyo 181-0015, Japan
 
 profile:
   align: right

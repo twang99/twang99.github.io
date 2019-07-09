@@ -93,7 +93,7 @@ scholar:
 
   last_name: Einstein
 
-  style: apa
+  style: assets/bibliography/ieee-with-url.csl #apa
   locale: en
 
   sort_by: year

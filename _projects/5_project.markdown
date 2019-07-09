@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 5
-description: a project with a background image
+title: Multi-messenger Astronomy
+description: high-energy processes in galaxies 
 img: /assets/img/1.jpg
 ---
 
