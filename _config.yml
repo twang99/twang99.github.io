@@ -91,7 +91,8 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Wang
+  first_name: Tao
 
   style: apa
   locale: en
