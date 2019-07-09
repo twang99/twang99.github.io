@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2016-08-30
 inline: true
 ---
 
-A simple inline announcement.
+NASA/Chandra press release: <a href="https://www.nasa.gov/mission_pages/chandra/record-breaking-galaxy-cluster-discovered.html">"Record-Breaking Galaxy Cluster Discovered"</a>

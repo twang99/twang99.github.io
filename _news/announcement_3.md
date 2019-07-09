@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2018-04-03
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Nature research highlights: <a href="https://www.nature.com/articles/d41586-018-04062-y">"Jekyll and Hyde, a story of two galaxies"</a>
