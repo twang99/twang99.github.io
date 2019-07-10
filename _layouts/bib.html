@@ -23,7 +23,7 @@
           {% endif %}
         {% else %}
           {% unless forloop.last %}
-            {% if author.first == site.scholar.first_name %}
+            {% if (author.first == site.scholar.first_name || author.first == site.scholar.first_name2) %}
               <em>{{author.last}}, {{author.first}}</em>,
             {% else %}
               {% if site.data.coauthors[author.last] %}
@@ -33,7 +33,7 @@
               {% endif %}
             {% endif %}
           {% else %}
-            {% if author.first == site.scholar.first_name %}
+            {% if author.first == site.scholar.first_name || author.first == site.scholar.first_name2 %}
               and <em>{{author.last}}, {{author.first}}</em>
             {% else %}
               {% if site.data.coauthors[author.last] %}
