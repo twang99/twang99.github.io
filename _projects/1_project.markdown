@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clusters
-description: Discovery of the most distant known X-ray cluster
+description: Formation of clusters and large scale structures 
 img: /assets/img/cluster/cluster_press.png
 ---
 

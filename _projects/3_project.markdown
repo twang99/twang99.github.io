@@ -2,8 +2,8 @@
 layout: page
 title: Black Holes
 description: SMBH-host co-evolution and regulation
-img:
-redirect: https://unsplash.com
+img: /assets/img/blackholes/agn_Ledd_allz_comb_model.png
+#redirect: https://unsplash.com
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
