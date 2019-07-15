@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Galaxies
+title: High-redshift Galaxies
 description: massive galaxy formation and quenching
 img: /assets/img/galaxies/fig1.pdf
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<strong>Context<strong>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+progenitors of the most massive galaxies 
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+<strong>Related articles:<strong>
+
+<a href="https://ui.adsabs.harvard.edu/abs/2016ApJ...816...84W/abstract">Wang, T., et al. (2016) ApJ, 816, 84</a>: Infrared Color Selection of Massive Galaxies at z > 3
+<br/>
+<a href="https://ui.adsabs.harvard.edu/abs/2012ApJ...752..134W/abstract">Wang, T., et al. (2012) ApJ, 752, 134</a>: CANDELS: Correlations of Spectral Energy Distributions and Morphologies with Star formation Status for Massive Galaxies at z ~ 2
+
 
 
 <div class="img_row">
